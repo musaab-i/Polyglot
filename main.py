@@ -9,8 +9,8 @@ set_site_information(
     author="Musaab I.",
     description="Improve your language skills through targeted practice.",
     sources="",
-    planning=["plan.pdf", "design.pdf"],
-    links=["https://github.com/your-username/your-repository"]
+    planning=[""],
+    links=["https://musaab-i.github.io/Polyglot/"]
 )
 hide_debug_information()
 set_website_framed(False)
